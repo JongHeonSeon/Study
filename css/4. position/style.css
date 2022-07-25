@@ -1,0 +1,17 @@
+@import "UTF-8";
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.hidden{
+    display: none;
+}
+
+.wrap{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: #202020;
+}
